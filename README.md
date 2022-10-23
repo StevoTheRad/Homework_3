@@ -8,4 +8,4 @@
 
 4. Я обожаю опалы
 
-![Черный опал](/New_reposatory/чёрный опал.jpg)
+![Черный опал](/New_reposatory/black_opal.jpg)
