@@ -10,4 +10,4 @@
 
 ![Черный опал](/New_reposatory/black_opal.jpg)
 
-<image src="/New_reposatory/black_opal.jpg" alt="Черный опал">
+
